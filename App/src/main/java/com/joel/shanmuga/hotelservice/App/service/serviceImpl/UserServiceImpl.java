@@ -1,4 +1,6 @@
 package com.joel.shanmuga.hotelservice.App.service.serviceImpl;
 
-public class UserServiceImpl {
+import com.joel.shanmuga.hotelservice.App.service.UserService;
+
+public class UserServiceImpl implements UserService {
 }
